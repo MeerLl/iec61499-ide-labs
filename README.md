@@ -22,7 +22,7 @@ iec61499-ide-labs/
 ├── 📄 setup_core.sh # Настройка системы для генерации core
 ├── 📄 test_command.xml # Тестовый XML-команда
 └── 📁 .github/workflows/ 
-└── build_pdf.yml # Автоматическая генерация PDF
+    └── build_pdf.yml # Автоматическая генерация PDF
 ```
 ## 🚀 Быстрый старт
 
