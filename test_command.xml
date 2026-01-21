@@ -1,0 +1,3 @@
+<Request ID="1" Action="CREATE">
+    <FB Name="EMB_RES" Type="EMB_RES" />
+</Request>
